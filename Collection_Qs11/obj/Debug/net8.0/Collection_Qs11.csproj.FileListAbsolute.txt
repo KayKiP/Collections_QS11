@@ -1,0 +1,14 @@
+D:\Humber\NET012\Collection_Qs11\bin\Debug\net8.0\Collection_Qs11.exe
+D:\Humber\NET012\Collection_Qs11\bin\Debug\net8.0\Collection_Qs11.deps.json
+D:\Humber\NET012\Collection_Qs11\bin\Debug\net8.0\Collection_Qs11.runtimeconfig.json
+D:\Humber\NET012\Collection_Qs11\bin\Debug\net8.0\Collection_Qs11.dll
+D:\Humber\NET012\Collection_Qs11\bin\Debug\net8.0\Collection_Qs11.pdb
+D:\Humber\NET012\Collection_Qs11\obj\Debug\net8.0\Collection_Qs11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Humber\NET012\Collection_Qs11\obj\Debug\net8.0\Collection_Qs11.AssemblyInfoInputs.cache
+D:\Humber\NET012\Collection_Qs11\obj\Debug\net8.0\Collection_Qs11.AssemblyInfo.cs
+D:\Humber\NET012\Collection_Qs11\obj\Debug\net8.0\Collection_Qs11.csproj.CoreCompileInputs.cache
+D:\Humber\NET012\Collection_Qs11\obj\Debug\net8.0\Collection_Qs11.dll
+D:\Humber\NET012\Collection_Qs11\obj\Debug\net8.0\refint\Collection_Qs11.dll
+D:\Humber\NET012\Collection_Qs11\obj\Debug\net8.0\Collection_Qs11.pdb
+D:\Humber\NET012\Collection_Qs11\obj\Debug\net8.0\Collection_Qs11.genruntimeconfig.cache
+D:\Humber\NET012\Collection_Qs11\obj\Debug\net8.0\ref\Collection_Qs11.dll
